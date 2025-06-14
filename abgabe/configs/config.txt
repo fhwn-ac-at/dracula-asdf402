@@ -1,0 +1,14 @@
+# Board size
+rows: 10
+columns: 10
+
+# Number of snakes / ladders
+number_of_snakes: 3
+number_of_ladders: 5
+
+# Dice configuration
+dice_size: 6
+exact_win: 1    # 1 = win exactly on the last square, 0 = overshoot counts
+
+# Number of simulations
+number_of_runs: 1000
